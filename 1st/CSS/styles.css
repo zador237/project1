@@ -46,7 +46,8 @@ nav li:hover{
 }
 .header-body{
     text-align: center;
-    background-color: #2F303A;
+    background:url("../Images/proevolution.jpeg");
+    background-repeat: no-repeat;
     padding: 200px 0;
 }
 .header-botext{
